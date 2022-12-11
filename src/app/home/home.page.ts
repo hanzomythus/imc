@@ -22,8 +22,6 @@ export class HomePage {
     
     this.imc = this.weight / (this.height * this.height)
 
-    let interpretation;
-
     if (this.imc > 0 && this.imc < 18.5){
       this.result = "MAGREZA";
     } else if (this.imc >= 18.5 && this.imc <= 24.9){

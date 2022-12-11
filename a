@@ -1,0 +1,59 @@
+[33mcommit 1da46dc208277f3b013fb336e0bef133e6931456[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: hanzomythus <luis.monteiro1@estudante.ufla.br>
+Date:   Sun Dec 11 17:43:30 2022 -0300
+
+    ok
+
+[33mcommit db5c4e405e026d34caa9f05242fd605d224f3ebe[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Paulo Jr <pauloa.junior@ufla.br>
+Date:   Thu Dec 1 20:16:30 2022 -0300
+
+    Adicionando README ao projeto
+
+[33mcommit 634281316dc625842a04fd90a18f6a7302ef1354[m
+Author: Paulo Jr <pauloa.junior@ufla.br>
+Date:   Thu Dec 1 20:14:43 2022 -0300
+
+    Implementando responsividade na tela principal
+
+[33mcommit b5eb7a6d53ae44c053e863438d6098b10d2a947d[m
+Author: Paulo Jr <pauloa.junior@ufla.br>
+Date:   Thu Dec 1 20:10:24 2022 -0300
+
+    Removendo arquivos desnecessários
+
+[33mcommit 22eb74cd668f5fbb9af2e32c6f0efd205d8c24e0[m
+Author: Paulo Jr <pauloa.junior@ufla.br>
+Date:   Thu Dec 1 20:09:17 2022 -0300
+
+    Redefinindo cores do tema da aplicação
+
+[33mcommit ee7af00058a9a7fe8c6e7875523b0ba6ab93a0d6[m
+Author: Paulo Jr <pauloa.junior@ufla.br>
+Date:   Thu Dec 1 20:04:51 2022 -0300
+
+    Efetuando e apresentando o cálculo do IMC
+
+[33mcommit b1488058fa448c7b6e0f178b57139d33e826dce0[m
+Author: Paulo Jr <pauloa.junior@ufla.br>
+Date:   Thu Dec 1 19:56:27 2022 -0300
+
+    Criando método para notificação do usuário
+
+[33mcommit 01213ee767053b8c995595b3760f2c87ae269774[m
+Author: Paulo Jr <pauloa.junior@ufla.br>
+Date:   Thu Dec 1 19:40:49 2022 -0300
+
+    Definindo tela principal da calculadora
+
+[33mcommit 6244020a1371e2e8d66b4fbb1f210dec213685d6[m
+Author: Paulo Jr <pauloa.junior@ufla.br>
+Date:   Thu Dec 1 19:32:02 2022 -0300
+
+    Definindo título da página principal
+
+[33mcommit e28244770a041d5a7f06bc135a5604105827ba81[m
+Author: Paulo Jr <pauloa.junior@ufla.br>
+Date:   Thu Dec 1 17:48:07 2022 -0300
+
+    Initial commit
